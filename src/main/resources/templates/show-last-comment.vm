@@ -1,1 +1,1 @@
-<span style="font-weight: bold; color: green;">Last comment: $showLastComment.</span>AbstractJiraContextProvider
+<span style="font-weight: bold; color: gray;">$showLastComment</span>
